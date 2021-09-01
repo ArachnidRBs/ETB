@@ -83,7 +83,7 @@
   "rap_diff_ratio":0.05,
   "DO NOT EDIT THE ABOVE UNLESS YOU KNOW WHAT YOU ARE DOING":true,
   "DONOTGET": {},
-   "keep_images": false,
+   "keep_images": true,
   "only_valued_shit":true,
   "DONOTTRADE": {},
   "getridoffast": {},
