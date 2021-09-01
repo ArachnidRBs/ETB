@@ -50,7 +50,7 @@
   "want": {
     "i": "ok"
   },
-  "maxaccept":0,
+  "maxaccept":999999999999999999999,
   "security_check":false,
   "ignore_rap":true,
   "dontcheckoutbound": true,
