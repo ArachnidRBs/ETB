@@ -96,6 +96,6 @@
   "onlytradeforarray": {},
   "proof_based": {},
   "autoregen": false,
-  "autoregeninterval": 43200000,
+  "autoregeninterval": 25200000,
   "owned_proj_ratio":1
 }
