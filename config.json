@@ -55,7 +55,7 @@
   "ignore_rap":true,
   "dontcheckoutbound": true,
   "rapboost": 1,
-  "reset_already_sent_interval": 3600000,
+  "reset_already_sent_interval": 21600000,
   "upgrade":true,
   "downgrade":true,
   "equal_number_of_items":true,
