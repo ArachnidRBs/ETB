@@ -72,7 +72,7 @@
   "stop_on_completed": false,
   "selfeval": -1,
   "ratio": 1,
-  "maxratio": 1.07,
+  "maxratio": 1.08,
   "dontdecline": true,
   "mineval": 0,
   "keepmyrares": true,
