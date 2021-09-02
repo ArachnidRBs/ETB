@@ -95,7 +95,7 @@
   "sendinterval":2000,
   "onlytradeforarray": {},
   "proof_based": {},
-  "autoregen": false,
+  "autoregen": true,
   "autoregeninterval": 25200000,
   "owned_proj_ratio":1
 }
