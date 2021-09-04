@@ -71,7 +71,7 @@
   "avoid_devpois_like_the_fucking_plague": true,
   "stop_on_completed": false,
   "selfeval": -1,
-  "ratio": 1.05,
+  "ratio": 1.04,
   "maxratio": 1.08,
   "dontdecline": true,
   "mineval": 0,
