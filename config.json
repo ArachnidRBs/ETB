@@ -85,7 +85,7 @@
   "DONOTGET": {"6807137300":true, "6803402872":true, "77443461":true, "1609401184":true},
    "keep_images": true,
   "only_valued_shit":true,
-  "DONOTTRADE": {},
+  "DONOTTRADE": {"19027209":true},
   "getridoffast": {},
   "fuckrares": false,
   "rewrite_to_end_if_ratelimited": false,
