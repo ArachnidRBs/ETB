@@ -86,7 +86,7 @@
    "keep_images": true,
   "only_valued_shit":true,
   "DONOTTRADE": {"57476524":true, "6803401743":true},
-  "getridoffast": {},
+  "getridoffast": {"57476524":true, "6803401743":true},
   "fuckrares": false,
   "rewrite_to_end_if_ratelimited": false,
   "upgrading_ratio": 0.85,
