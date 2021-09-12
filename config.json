@@ -30,13 +30,13 @@
   ],
   "proxy_key":"",
   "cantsendinterval":2000,
-  "DISCORD_ID": "",
-  "CMDS": "",
+  "DISCORD_ID": "830180788792066048",
+  "CMDS": "872641432396103700",
   "notifs": [
-    ""
+    "872641445851451473"
   ],
-  "NOTIF_CHANNEL": "",
-  "TRADE_CHANNEL": "",
+  "NOTIF_CHANNEL": "872641460145631242",
+  "TRADE_CHANNEL": "872641471944228945",
   "colors": {
     "inbound": "GREEN",
     "declined": "RED",
@@ -60,7 +60,7 @@
   "testmode": false,
   "custom_values": {},
   "accept_ratio": 9999999999999,
-  "USER_ID": 3434534553,
+  "USER_ID": 321432146,
   "upgbias": 0,
   "plugger9000_enabled": true,
   "avoid_devpois_like_the_fucking_plague": true,
